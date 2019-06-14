@@ -1,6 +1,7 @@
 # 100 Days Of Code - Log
 
 ## My Goals for this challange
+
 - [ ] Code daily.
 - [ ] Complete Udemy Course [Learn and Understand NodeJS](https://www.udemy.com/understand-nodejs/).
 - [ ] Complete Udemy Course [JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/).
@@ -18,5 +19,14 @@
 
 **Today's Progress**: Continued working through [Learn and Understand NodeJS](https://www.udemy.com/understand-nodejs/).
 
-**Thoughts**: I learnt about how node is made up of a C++ core and JavaScript core. Had an introduction to using the debugger in VS code to add breakpoints to 
+**Thoughts**: I learnt about how node is made up of a C++ core and JavaScript core. Had an introduction to using the debugger in VS code to add breakpoints to
 JavaScript code. Learnt about how node uses modules and commonJS to organise blocks of code and what first class functions are in JavaScript.
+
+### Day 2: 14th June 2019
+
+**Today's Progress**: Worked on [Learn and Understand NodeJS](https://www.udemy.com/understand-nodejs/).
+I also created a git repo that I will use to test any code or write notes on what i have learnt whilst going through the course.
+
+**Thoughts**: I went into more detail about how modules are created and used within node. Learnt about Object literals and how they are structured.
+
+**Link to repo**: [NodeJS-notes-and-exercises](https://github.com/JamesHattersley83/NodeJS-notes-and-exercises)
