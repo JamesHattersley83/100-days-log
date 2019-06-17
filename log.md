@@ -45,3 +45,13 @@ I covered the following topics today.
 **Thoughts**: I am really enjoying covering some JavaScript basic concepts again and diving deeper under the hood of node and how modules actually work.
 
 **Link to repo**: [NodeJS-notes-and-exercises](https://github.com/JamesHattersley83/NodeJS-notes-and-exercises)
+
+### Day 4: 17th June 2019
+
+**Today's Progress**: [Learn and Understand NodeJS](https://www.udemy.com/understand-nodejs/).
+
+- How the **require** function works in more detail.
+- Module Patterns.
+- Export Vs module.exports.
+
+**Link to repo**: [NodeJS-notes-and-exercises](https://github.com/JamesHattersley83/NodeJS-notes-and-exercises)
