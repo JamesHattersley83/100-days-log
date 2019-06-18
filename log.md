@@ -55,3 +55,11 @@ I covered the following topics today.
 - Export Vs module.exports.
 
 **Link to repo**: [NodeJS-notes-and-exercises](https://github.com/JamesHattersley83/NodeJS-notes-and-exercises)
+
+### Day 4: 17th June 2019
+
+**Today's Progress**: I continued to work through [Learn and Understand NodeJS](https://www.udemy.com/understand-nodejs/).
+
+I managed to complete the Modules Exports and Require section and make a start on the Events and the Event Emitter section.
+
+**Link to repo**: [NodeJS-notes-and-exercises](https://github.com/JamesHattersley83/NodeJS-notes-and-exercises)
