@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-## My Goals for this challange
+## My Goals for this challenge
 
 - [ ] Code daily.
 - [ ] Complete Udemy Course [Learn and Understand NodeJS](https://www.udemy.com/understand-nodejs/).
@@ -61,5 +61,18 @@ I covered the following topics today.
 **Today's Progress**: I continued to work through [Learn and Understand NodeJS](https://www.udemy.com/understand-nodejs/).
 
 I managed to complete the Modules Exports and Require section and make a start on the Events and the Event Emitter section.
+
+**Link to repo**: [NodeJS-notes-and-exercises](https://github.com/JamesHattersley83/NodeJS-notes-and-exercises)
+
+### Day 6: 19th June 2019
+
+**Today's Progress**: More work on the NodeJS Course [Learn and Understand NodeJS](https://www.udemy.com/understand-nodejs/).
+
+Topics covered today:
+
+- Events, handlers and how the Event Emitter works.
+- Built a test Event Emitter to understand in more detail.
+- Magic Strings and how to use them in the best way using a config module.
+- Object.create and Prototype Inheritance.
 
 **Link to repo**: [NodeJS-notes-and-exercises](https://github.com/JamesHattersley83/NodeJS-notes-and-exercises)
