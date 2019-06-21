@@ -76,3 +76,16 @@ Topics covered today:
 - Object.create and Prototype Inheritance.
 
 **Link to repo**: [NodeJS-notes-and-exercises](https://github.com/JamesHattersley83/NodeJS-notes-and-exercises)
+
+exercises)
+
+### Day 7: 21th June 2019
+
+**Today's Progress**: continued to work on the NodeJS Course [Learn and Understand NodeJS](https://www.udemy.com/understand-nodejs/).
+
+Things I covered today:
+
+- Inheritance from the Event Emitter using the exports.inherits method.
+- ES6 and template literals.
+
+**Thoughts**: Only a short day of watching videos today. I will write up my notes and test the code what I have learnt tomorrow.
