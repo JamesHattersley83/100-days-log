@@ -77,8 +77,6 @@ Topics covered today:
 
 **Link to repo**: [NodeJS-notes-and-exercises](https://github.com/JamesHattersley83/NodeJS-notes-and-exercises)
 
-exercises)
-
 ### Day 7: 21th June 2019
 
 **Today's Progress**: continued to work on the NodeJS Course [Learn and Understand NodeJS](https://www.udemy.com/understand-nodejs/).
