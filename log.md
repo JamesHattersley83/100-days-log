@@ -85,5 +85,6 @@ Things I covered today:
 
 - Inheritance from the Event Emitter using the exports.inherits method.
 - ES6 and template literals.
+- .call and .apply for invoking functions.
 
 **Thoughts**: Only a short day of watching videos today. I will write up my notes and test the code what I have learnt tomorrow.
