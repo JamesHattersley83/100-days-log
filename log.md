@@ -88,3 +88,15 @@ Things I covered today:
 - .call and .apply for invoking functions.
 
 **Thoughts**: Only a short day of watching videos today. I will write up my notes and test the code what I have learnt tomorrow.
+
+### Day 8: 23th June 2019
+
+**Today's Progress**: NodeJS Course [Learn and Understand NodeJS](https://www.udemy.com/understand-nodejs/).
+
+Topics covered today:
+
+- More on inheritance from the Event Emitter by using .call() function.
+- ES6 Classes.
+- Inheritance from the Event Emitter using ES6 classes.
+
+**Link to repo**: [NodeJS-notes-and-exercises](https://github.com/JamesHattersley83/NodeJS-notes-and-exercises)
