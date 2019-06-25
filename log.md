@@ -100,3 +100,15 @@ Topics covered today:
 - Inheritance from the Event Emitter using ES6 classes.
 
 **Link to repo**: [NodeJS-notes-and-exercises](https://github.com/JamesHattersley83/NodeJS-notes-and-exercises)
+
+### Day 9: 25th June 2019
+
+**Today's Progress**: More work on the NodeJS Course [Learn and Understand NodeJS](https://www.udemy.com/understand-nodejs/).
+
+Topics covered today:
+
+- What is Asychronous and Synchronous code.
+- Callbacks.
+- libuv, The Event Loop and Non-blocking asynchronous Execution.
+
+**Link to repo**: [NodeJS-notes-and-exercises](https://github.com/JamesHattersley83/NodeJS-notes-and-exercises)
