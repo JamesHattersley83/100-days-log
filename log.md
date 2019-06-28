@@ -122,3 +122,15 @@ Topics covered today:
 - Binary data, Character sets and Encodings.
 - Buffers.
 - ES6 Typed arrays.
+
+exercises)
+
+### Day 11: 28th June 2019
+
+**Today's Progress**: NodeJS Course [Learn and Understand NodeJS](https://www.udemy.com/understand-nodejs/).
+
+Topics covered today:
+
+- More on Callbacks.
+- Files and fs module.
+- Steams and Pipes.
