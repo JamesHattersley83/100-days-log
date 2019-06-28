@@ -112,3 +112,13 @@ Topics covered today:
 - libuv, The Event Loop and Non-blocking asynchronous Execution.
 
 **Link to repo**: [NodeJS-notes-and-exercises](https://github.com/JamesHattersley83/NodeJS-notes-and-exercises)
+
+### Day 10: 26th June 2019
+
+**Today's Progress**: NodeJS Course [Learn and Understand NodeJS](https://www.udemy.com/understand-nodejs/).
+
+Topics covered today:
+
+- Binary data, Character sets and Encodings.
+- Buffers.
+- ES6 Typed arrays.
