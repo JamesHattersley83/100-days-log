@@ -132,3 +132,14 @@ Topics covered today:
 - More on Callbacks.
 - Files and fs module.
 - Steams and Pipes.
+
+### Day 12: 29th June 2019
+
+**Today's Progress**: NodeJS Course [Learn and Understand NodeJS](https://www.udemy.com/understand-nodejs/).
+
+Topics covered today:
+
+- HTTP and being a Web Server
+- TCPIP
+- Addresses and Ports
+- HTTP in more detail
