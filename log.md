@@ -143,3 +143,16 @@ Topics covered today:
 - TCPIP
 - Addresses and Ports
 - HTTP in more detail
+
+### Day 13: 2nd July 2019
+
+**Today's Progress**: Contined working through NodeJS Course [Learn and Understand NodeJS](https://www.udemy.com/understand-nodejs/).
+Wrote up some notes and added exercises on previous videos.
+
+Topics covered today:
+
+- http_parser module
+- Building a Web Server in Node
+- Outputting HTML and Templates
+
+**Link to repo**: [NodeJS-notes-and-exercises](https://github.com/JamesHattersley83/NodeJS-notes-and-exercises)
