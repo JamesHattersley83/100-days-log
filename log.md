@@ -156,3 +156,20 @@ Topics covered today:
 - Outputting HTML and Templates
 
 **Link to repo**: [NodeJS-notes-and-exercises](https://github.com/JamesHattersley83/NodeJS-notes-and-exercises)
+
+### Day 14: 3rd July 2019
+
+**Today's Progress**: More work on the NodeJS Course [Learn and Understand NodeJS](https://www.udemy.com/understand-nodejs/).
+Contined to add my notes and code exercises on previous videos i have covered.
+
+Topics covered today:
+
+- Streams and Performance
+- APIs and Endpoints
+- Outputting JSON
+- Routing
+- NPM and installing packages
+
+I will be starting the Express secion tomorrow.
+
+**Link to repo**: [NodeJS-notes-and-exercises](https://github.com/JamesHattersley83/NodeJS-notes-and-exercises)
