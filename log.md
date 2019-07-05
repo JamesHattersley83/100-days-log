@@ -173,3 +173,16 @@ Topics covered today:
 I will be starting the Express secion tomorrow.
 
 **Link to repo**: [NodeJS-notes-and-exercises](https://github.com/JamesHattersley83/NodeJS-notes-and-exercises)
+
+### Day 15: 5th July 2019
+
+**Today's Progress**: More work on the NodeJS Course [Learn and Understand NodeJS](https://www.udemy.com/understand-nodejs/).
+
+Topics covered today:
+
+- Installing Express and Building a Web Server
+- Routes
+- Static Files and Middleware
+- Templates and Template Engines
+
+**Link to repo**: [NodeJS-notes-and-exercises](https://github.com/JamesHattersley83/NodeJS-notes-and-exercises)
