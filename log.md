@@ -186,3 +186,14 @@ Topics covered today:
 - Templates and Template Engines
 
 **Link to repo**: [NodeJS-notes-and-exercises](https://github.com/JamesHattersley83/NodeJS-notes-and-exercises)
+
+### Day 16: 6th July 2019
+
+**Today's Progress**: NodeJS Course [Learn and Understand NodeJS](https://www.udemy.com/understand-nodejs/).
+
+Topics covered today:
+
+- Querystring and Post Parameters
+- RESTful APIs and JSON
+- Structuring an App
+- Relational Databases and SQL
