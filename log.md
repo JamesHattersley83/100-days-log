@@ -197,3 +197,20 @@ Topics covered today:
 - RESTful APIs and JSON
 - Structuring an App
 - Relational Databases and SQL
+
+### Day 17: 9th July 2019
+
+**Today's Progress**: NodeJS Course [Learn and Understand NodeJS](https://www.udemy.com/understand-nodejs/).
+
+Added notes and code practise from previous sections to repo.
+
+Topics covered today:
+
+- Node and MySQL
+- NoSQL and Documents
+- MongoDB and Mongoose
+- The MEAN Stack
+
+Tomorrow I will complete the final section of the course by building a simple app using the technologies learnt through this course.
+
+**Link to repo**: [NodeJS-notes-and-exercises](https://github.com/JamesHattersley83/NodeJS-notes-and-exercises)
