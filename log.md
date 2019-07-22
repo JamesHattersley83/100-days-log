@@ -3,7 +3,7 @@
 ## My Goals for this challenge
 
 - [ ] Code daily.
-- [ ] Complete Udemy Course [Learn and Understand NodeJS](https://www.udemy.com/understand-nodejs/).
+- [x] Complete Udemy Course [Learn and Understand NodeJS](https://www.udemy.com/understand-nodejs/).
 - [ ] Complete Udemy Course [JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/).
 - [ ] Complete Udemy Course [NodeJS - The complete guide](https://www.udemy.com/course/nodejs-the-complete-guide/).
 - [ ] Complete freeCodeCamp APIs and Microservices Certification.
@@ -214,3 +214,21 @@ Topics covered today:
 Tomorrow I will complete the final section of the course by building a simple app using the technologies learnt through this course.
 
 **Link to repo**: [NodeJS-notes-and-exercises](https://github.com/JamesHattersley83/NodeJS-notes-and-exercises)
+
+### Day 1: 22nd July 2019
+
+I have started again from Day 1 as I have had a small break due to family holidays.
+
+**Today's Progress**: I have completed the NodeJS Course [Learn and Understand NodeJS](https://www.udemy.com/understand-nodejs/).
+I have resumed the JS Understand the weird parts Course [JS Understand the Weird Parts](https://www.udemy.com/understand-javascript/). I picked up where I had previously stopped on the Objects and Functions section.
+
+I created a new repo to hold my notes and code practise during this course.
+
+Topics covered today:
+
+- IIFE's
+- IFEE's and Safe Code
+- Understanding Closures
+- Function Factories
+
+**Link to repo**: [JS-Understanding the weird parts](https://github.com/JamesHattersley83/JS-Understanding-the-weird-parts)
