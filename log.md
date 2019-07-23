@@ -232,3 +232,16 @@ Topics covered today:
 - Function Factories
 
 **Link to repo**: [JS-Understanding the weird parts](https://github.com/JamesHattersley83/JS-Understanding-the-weird-parts)
+
+### Day 2: 23rd July 2019
+
+**Today's Progress**:
+I have continued the JS Understand the weird parts Course [JS Understand the Weird Parts](https://www.udemy.com/understand-javascript/).
+
+Topics covered today:
+
+- Closures and Callbacks
+- Call, apply and bind
+- Functional Programming
+
+**Link to repo**: [JS-Understanding the weird parts](https://github.com/JamesHattersley83/JS-Understanding-the-weird-parts)
