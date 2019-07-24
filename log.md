@@ -245,3 +245,17 @@ Topics covered today:
 - Functional Programming
 
 **Link to repo**: [JS-Understanding the weird parts](https://github.com/JamesHattersley83/JS-Understanding-the-weird-parts)
+
+### Day 3: 24th July 2019
+
+**Today's Progress**:
+Continued the JS Understand the weird parts Course [JS Understand the Weird Parts](https://www.udemy.com/understand-javascript/).
+
+Topics covered today:
+
+- Prototypal Inheritance
+- Reflexion and Extend
+- Function Constructors
+- Building Objects
+
+**Link to repo**: [JS-Understanding the weird parts](https://github.com/JamesHattersley83/JS-Understanding-the-weird-parts)
