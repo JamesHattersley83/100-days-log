@@ -4,7 +4,7 @@
 
 - [ ] Code daily.
 - [x] Complete Udemy Course [Learn and Understand NodeJS](https://www.udemy.com/understand-nodejs/).
-- [ ] Complete Udemy Course [JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/).
+- [x] Complete Udemy Course [JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/).
 - [ ] Complete Udemy Course [NodeJS - The complete guide](https://www.udemy.com/course/nodejs-the-complete-guide/).
 - [ ] Complete freeCodeCamp APIs and Microservices Certification.
 - [ ] Expand Personal Portfolio.
@@ -259,3 +259,19 @@ Topics covered today:
 - Building Objects
 
 **Link to repo**: [JS-Understanding the weird parts](https://github.com/JamesHattersley83/JS-Understanding-the-weird-parts)
+
+### Day 4: 6th August 2019
+
+**Today's Progress**:
+Completed working through [JS Understand the Weird Parts](https://www.udemy.com/understand-javascript/) course.
+
+Topics covered today:
+
+- Initialization
+- Strict mode
+- Examining JQuery code 
+- Building a framework/library
+
+I also started working on the udemy course [NodeJS - The Complete Guide](https://www.udemy.com/course/nodejs-the-complete-guide/)
+
+**Link to repo**: [NodeJS-Complete-Guide](https://github.com/JamesHattersley83/NodeJS-Complete-Guide)
