@@ -275,3 +275,13 @@ Topics covered today:
 I also started working on the udemy course [NodeJS - The Complete Guide](https://www.udemy.com/course/nodejs-the-complete-guide/)
 
 **Link to repo**: [NodeJS-Complete-Guide](https://github.com/JamesHattersley83/NodeJS-Complete-Guide)
+
+### Day 5: 8th August 2019
+
+**Today's Progress**:
+
+Continued working on the udemy course [NodeJS - The Complete Guide](https://www.udemy.com/course/nodejs-the-complete-guide/)
+
+I completed the Introduction, Javascript refresher and started the Node basics section.
+
+**Link to repo**: [NodeJS-Complete-Guide](https://github.com/JamesHattersley83/NodeJS-Complete-Guide)
